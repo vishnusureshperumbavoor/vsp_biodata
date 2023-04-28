@@ -1,2 +1,2 @@
-const biodata = require("vsp-biodata")
+import biodata from "vsp-biodata"
 console.log(biodata)

@@ -22,4 +22,4 @@ const biodata = {
     }
   };
 
-export default biodata;
+module.exports = biodata;
