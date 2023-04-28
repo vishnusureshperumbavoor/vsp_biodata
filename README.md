@@ -83,7 +83,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[[Product Name Screen Shot][product-screenshot]](images/vsp-biodata.png)
+[[See product Name Screen Shot][product-screenshot]]
 
 This is the revolutionary product that released in the 21st century after chatGPT and bored ape yacht club. Using this package people can read the biodata of the mighty VSP.
 
