@@ -83,7 +83,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](images/vsp-biodata.png)
+[[Product Name Screen Shot][product-screenshot]](images/vsp-biodata.png)
 
 This is the revolutionary product that released in the 21st century after chatGPT and bored ape yacht club. Using this package people can read the biodata of the mighty VSP.
 
@@ -251,7 +251,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/vishnu-suresh-perumbavoor-9a7a8223a/
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: images/vsp-biodata.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
