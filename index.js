@@ -1,7 +1,6 @@
 const biodata = {
     name: "Vishnu Suresh",
     sobriquet:"VSP",
-    dob: "4/10/1999",
     occupation: "AI Engineer",
     interests: ["building companies", "flirting"],
     futureplans : {
